@@ -1,8 +1,8 @@
-package sgt;
-
 import java.util.*;
 import java.io.*;
 
+
+// Accepted answer for POJ 2077.Please replace the class Name 'ColorProblem' by 'Main'.
 class Node {
 	int ls, rs;
 	int val = 1;
