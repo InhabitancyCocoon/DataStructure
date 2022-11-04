@@ -1,4 +1,4 @@
-public class SegmentTree {
+public class DynamicSegmentTree {
 	/**
 	 * The node in segment tree.
 	 * ls: left child.
