@@ -1,8 +1,9 @@
-package sgt;
 
 import java.util.*;
 import java.io.*;
 
+
+//Accepted answer for Atlantis Problem(POJ-1151, HDU-1542), please replace the class name by 'Main'.
 public class ScanLineProblem {
 	
 	static class Node {
